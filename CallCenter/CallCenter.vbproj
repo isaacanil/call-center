@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7C925712-C87B-486A-AC51-5057E633F069}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>My.MyApplication</StartupObject>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>CallCenter</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CallCenter.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CallCenter.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\Solution Items\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\Solution Items\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\Solution Items\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcuPag.Designer.vb">
+      <DependentUpon>AcuPag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AcuPag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcuPagLis.Designer.vb">
+      <DependentUpon>AcuPagLis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AcuPagLis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cccobros.Designer.vb">
+      <DependentUpon>cccobros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cccobros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cct_reg_aux.designer.vb">
+      <DependentUpon>cct_reg_aux.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cct_reg_aux.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Juegos.Designer.vb">
+      <DependentUpon>Juegos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Juegos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cccModDatoAge.Designer.vb">
+      <DependentUpon>cccModDatoAge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cccModDatoAge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AcuPag.resx">
+      <DependentUpon>AcuPag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcuPagLis.resx">
+      <DependentUpon>AcuPagLis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cccobros.resx">
+      <DependentUpon>cccobros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cct_reg_aux.resx">
+      <DependentUpon>cct_reg_aux.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Juegos.resx">
+      <DependentUpon>Juegos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cccModDatoAge.resx">
+      <DependentUpon>cccModDatoAge.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear Green Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.vbproj">
+      <Project>{1f668ff2-b517-4b35-82fc-cdea0fda639f}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data\Data.vbproj">
+      <Project>{34df5f1c-3631-4207-84ea-b7ee8dba2d91}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_white_acrobat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thiago-Silva-Palm-Phone.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_refresh_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-153645_1280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Informacion pantalla emengente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel Red Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

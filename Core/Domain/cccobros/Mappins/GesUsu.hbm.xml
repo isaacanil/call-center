@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.GesUsu, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id_gesusu" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="codges" column="codges" />
+    <property name="nomges" column="nomges" />
+    <property name="codusu" column="codusu" />
+    <!--loader query-ref="SelectGesUsu"/-->
+  </class>
+  <sql-query name="SelectGesUsu1">
+    <return class="Core.Domain.CccEntidades.GesUsu, Core">
+      <return-property name="ID" column="id_gesusu"/>
+      <return-property name="codges" column="codges"/>
+      <return-property name="nomges" column="nomges"/>
+      <return-property name="codusu" column="codusu"/>
+    </return>
+    exec [SelectGesUsu]
+  </sql-query>
+
+  <sql-query name="SelectGesUsu2">
+    <return class="Core.Domain.CccEntidades.GesUsu, Core">
+      <return-property name="ID" column="id_gesusu"/>
+      <return-property name="codges" column="codges"/>
+      <return-property name="nomges" column="nomges"/>
+      <return-property name="codusu" column="codusu"/>
+    </return>
+    exec [SelectGesUsu] :usu
+  </sql-query>
+
+</hibernate-mapping>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccCon, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="des" column="des" />
+  </class>
+  <sql-query name="SelectCons">
+    <return class="Core.Domain.CccEntidades.CccCon, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="des" column="des"/>
+    </return>
+    exec [SelectCons]:tip, :Mot, :Inc
+  </sql-query>
+
+</hibernate-mapping>
+
+

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccDatoGesAge, Core" lazy="false"  mutable="false">
+    <id name="ID" column="codgtech" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+
+    
+    <property name="nomges" column="nomges" />
+    <property name="retirada" column="retirada"/>
+    <property name="bloqueada" column="bloqueada"/>
+    <property name="codasi"   column="codasi"/>
+    <property name="fec_tk" column="fec_tk"/>
+    <property name="ejecutivo" column="ejecutivo"/>
+    <property name="classf" column="class"/>
+    <!--property name="FEC"  column="FEC"/-->
+  </class>
+  <sql-query name="SelectDatoGesAge">
+    <return class="Core.Domain.CccEntidades.CccDatoGesAge, Core">
+      <return-property name="ID" column="codgtech"/>
+     
+      <return-property name="nomges" column="nomges"/>
+      <return-property name="retirada" column="retirada"/>
+      <return-property name="bloqueada" column="bloqueada"/>
+      <return-property name="codasi" column="codasi"/>
+      <return-property name="ejecutivo" column="ejecutivo"/>
+      <return-property name="fec_tk" column="fec_tk"/>
+      <!--return-property name="FEC" column="FEC"/-->
+      <return-property name="classf"  column="class"/>
+    </return>
+    exec [SelectDatoGesAge]:age
+  </sql-query>
+
+</hibernate-mapping>
+

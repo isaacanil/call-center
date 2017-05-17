@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccAge, Core" lazy="false"  mutable="false">
+    <id name="ID" column="retailer" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="nombre" column="nombre" />
+  </class>
+  <sql-query name="SelectAge">
+    <return class="Core.Domain.CccEntidades.CccAge, Core">
+      <return-property name="ID" column="retailer"/>
+      <return-property name="nombre" column="nombre"/>
+    </return>
+    exec [SelectAge]:param1,:param2
+  </sql-query>
+</hibernate-mapping>

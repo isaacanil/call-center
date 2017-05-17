@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccAcuObs, Core" lazy="false"  mutable="false">
+    <id name="ID" column="retailer" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+
+    <!--property name="obs" column="obs"/>
+    <property name="act" column="act"/-->
+
+  </class>
+  <!--sql-query name="">
+    <return class="Core.Domain.CccEntidades.CccAcuObs, Core">
+      <return-property name="ID" column="retailer"/>
+
+      <return-property name="obs" column="obs"/>
+      <return-property name="act" column="act"/>
+
+
+    </return>
+    exec []:param1,:param2
+  </sql-query-->
+</hibernate-mapping>

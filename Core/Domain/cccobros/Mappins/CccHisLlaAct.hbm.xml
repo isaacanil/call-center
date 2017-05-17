@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccHisLlaAct, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="mot" column="mot" />
+    <property name="inc" column="inc" />
+    <property name="con" column="con" />
+    <property name="nota" column="nota" />
+  </class>
+
+  <sql-query name="SelectHistLlaActAge">
+    <return class="Core.Domain.CccEntidades.CccHisLlaAct, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="mot" column="mot"/>
+      <return-property name="inc" column="inc"/>
+      <return-property name="con" column="con"/>
+      <return-property name="nota" column="nota"/>
+    </return>
+    exec [SelectHistLlaActAge] :idlla
+  </sql-query>
+</hibernate-mapping>

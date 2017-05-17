@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.Ejecutivos, Core" lazy="false"  mutable="false">
+    <id name="ID" column="codemp" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="nombre" column="nombre" />
+  </class>
+  <sql-query name="SelectEje">
+    <return class="Core.Domain.CccEntidades.Ejecutivos, Core">
+      <return-property name="ID" column="codemp"/>
+      <return-property name="nombre" column="nombre"/>
+    </return>
+    exec [SelectEje]
+  </sql-query>
+
+</hibernate-mapping>

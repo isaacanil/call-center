@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.Municipios, Core" lazy="false"  mutable="false">
+    <id name="ID" column="codmun" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="desmun" column="desmun" />
+  </class>
+  <sql-query name="SelectMun">
+    <return class="Core.Domain.CccEntidades.Municipios, Core">
+      <return-property name="ID" column="codmun"/>
+      <return-property name="desmun" column="desmun"/>
+    </return>
+    exec [SelectMun] :codpro
+  </sql-query>
+
+</hibernate-mapping>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccGenericCombo, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="descr" column="descr" />
+  </class>
+  <sql-query name="SelectTipCon">
+    <return class="Core.Domain.CccEntidades.CccGenericCombo, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="descr" column="descr"/>
+    </return>
+    exec [SelectTipCon]
+  </sql-query>
+
+  <sql-query name="SelectTMIC">
+    <return class="Core.Domain.CccEntidades.CccGenericCombo, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="descr" column="descr"/>
+    </return>
+    exec [SelectTMIC]:tip,:mot,:inc,:con
+  </sql-query>
+
+  <sql-query name="SelectAcuPer">
+    <return class="Core.Domain.CccEntidades.CccGenericCombo, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="descr" column="descr"/>
+    </return>
+    exec [SelectAcuPer]
+  </sql-query>
+  
+</hibernate-mapping>

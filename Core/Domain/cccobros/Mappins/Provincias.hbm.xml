@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.Provincias, Core" lazy="false"  mutable="false">
+    <id name="ID" column="codpro" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="despro" column="despro" />
+  </class>
+  <sql-query name="SelectPro">
+    <return class="Core.Domain.CccEntidades.Provincias, Core">
+      <return-property name="ID" column="codpro"/>
+      <return-property name="despro" column="despro"/>
+    </return>
+    exec [SelectPro]
+  </sql-query>
+
+</hibernate-mapping>

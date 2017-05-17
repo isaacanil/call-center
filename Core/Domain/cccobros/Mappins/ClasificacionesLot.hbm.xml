@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.ClasificacionesLot, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="CLAS" column="CLAS" />
+    <property name="TP_CLAS" column="TP_CLAS" />
+    <property name="RI" column="RI" />
+    <property name="RF" column="RF" />
+  </class>
+  <sql-query name="SelectClas">
+    <return class="Core.Domain.CccEntidades.ClasificacionesLot, Core">
+      <return-property name="ID" column="ID"/>
+      <return-property name="CLAS" column="CLAS"/>
+      <return-property name="TP_CLAS" column="TP_CLAS"/>
+      <return-property name="RI" column="RI"/>
+      <return-property name="RF" column="RF"/>
+    </return>
+    exec [SelectClas]:tpclas
+  </sql-query>
+
+</hibernate-mapping>

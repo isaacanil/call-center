@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccAcu, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="age" column="age"/>
+    <property name="monto" column="monto"/>
+    <property name="bal" column="bal"/>
+    <property name="nCuo" column="nCuo"/>
+    <property name="fini" column="fini"/>
+    <property name="ffin" column="ffin"/>
+    <property name="Per" column="Per"/>
+    <property name="Est" column="Est"/>
+    <property name="color" column="color"/>
+    <property name="uCrea" column="uCrea"/>
+  </class>
+  <sql-query name="SelectAcuLis">
+    <return class="Core.Domain.CccEntidades.CccAcu, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="age" column="age"/>
+      <return-property name="monto" column="monto"/>
+      <return-property name="bal" column="bal"/>
+      <return-property name="nCuo" column="nCuo"/>
+      <return-property name="fini" column="fini"/>
+      <return-property name="ffin" column="ffin"/>
+      <return-property name="Per" column="Per"/>
+      <return-property name="Est" column="Est"/>
+      <return-property name="color" column="color"/>
+      <return-property name="uCrea" column="uCrea"/>
+    </return>
+    exec [SelectAcuLis]:param1
+  </sql-query>
+</hibernate-mapping>

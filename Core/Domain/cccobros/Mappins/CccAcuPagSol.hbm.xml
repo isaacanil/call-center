@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccAcuPagSol, Core" lazy="false"  mutable="false">
+    <id name="ID" column="retailer" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+
+
+
+    <!--property name="IdPag" column="IdPag"/>
+    <property name="IdAcue" column="IdAcue"/>
+    <property name="apro" column="apro"/>
+    <property name="observ" column="observ"/>
+    <property name="UApro " column="UApro "/>
+    <property name="FCrea" column="FCrea"/>
+    <property name="FMod" column="FMod"/>
+    <property name="UCrea" column="UCrea"/>
+    <property name="UMod" column="UMod"/>
+    <property name="act" column="act"/-->
+    
+  </class>
+  <!--sql-query name="">
+    <return class="Core.Domain.CccEntidades.CccAcuPagSol, Core">
+      <return-property name="ID" column="retailer"/>
+
+      <return-property name="IdPag" column="IdPag"/>
+      <return-property name="IdAcue" column="IdAcue"/>
+      <return-property name="apro" column="apro"/>
+      <return-property name="observ" column="observ"/>
+      <return-property name="UApro " column="UApro "/>
+      <return-property name="FCrea" column="FCrea"/>
+      <return-property name="FMod" column="FMod"/>
+      <return-property name="UCrea" column="UCrea"/>
+      <return-property name="UMod" column="UMod"/>
+      <return-property name="act" column="act"/>
+
+
+    </return>
+    exec []:param1,:param2
+  </sql-query-->
+</hibernate-mapping>
+

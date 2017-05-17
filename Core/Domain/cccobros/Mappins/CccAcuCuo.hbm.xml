@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccAcuCuo, Core" lazy="false"  mutable="false">
+    <id name="ID" column="retailer" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <!--property name="age" column="age"/>
+    <property name="IdReg" column="IdReg"/>
+    <property name="monto " column="monto "/>
+    <property name="bal" column="bal"/>
+    <property name="nCuo " column="nCuo"/>
+    <property name="fini" column="fini"/>
+    <property name="ffin " column="ffin"/>
+    <property name="tcuo " column="tcuo"/>
+    <property name="idPer" column="idPer"/>
+    <property name="idEst" column="idEst"/>
+    <property name="fCrea" column="fCrea"/>
+    <property name="fMod" column="fMod"/>
+    <property name="uCrea" column="uCrea"/>
+    <property name="uMod" column="uMod"/-->
+   
+  </class>
+  <!--sql-query name="">
+    <return class="Core.Domain.CccEntidades.CccAcu, Core">
+      <return-property name="ID" column="retailer"/>
+
+      <return-property name="age" column="age"/>
+      <return-property name="IdReg" column="IdReg"/>
+      <return-property name="monto" column="monto"/>
+      <return-property name="bal" column="bal"/>
+      <return-property name="nCuo" column="nCuo"/>
+      <return-property name="fini" column="fini"/>
+      <return-property name="ffin" column="ffin"/>
+      <return-property name="tcuo" column="tcuo"/>
+      <return-property name="idPer" column="idPer"/>
+      <return-property name="idEst" column="idEst"/>
+      <return-property name="fCrea" column="fCrea"/>
+      <return-property name="fMod" column="fMod"/>
+      <return-property name="uCrea" column="uCrea"/>
+      <return-property name="uMod" column="uMod"/>
+      
+      
+    </return>
+    exec []:param1,:param2
+  </sql-query-->
+</hibernate-mapping>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.Sectores, Core" lazy="false"  mutable="false">
+    <id name="ID" column="codsec" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="dessec" column="dessec" />
+  </class>
+  <sql-query name="SelectSec">
+    <return class="Core.Domain.CccEntidades.Sectores, Core">
+      <return-property name="ID" column="codsec"/>
+      <return-property name="dessec" column="dessec"/>
+    </return>
+    exec [SelectSec]:codmun
+  </sql-query>
+
+</hibernate-mapping>

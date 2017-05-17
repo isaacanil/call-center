@@ -1,0 +1,128 @@
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\Usuario\documents\visual studio 2013\Projects\CallCenter\Data\obj\Debug\Data.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\CallCenter\Data\obj\Debug\Data.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter\CallCenter\Data\obj\Debug\Data.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 16-02-2017\CallCenter\Data\obj\Debug\Data.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\jose\Desktop\Intalaciones\Pratica CallCenter\Pasado por Isacc 6-02-2017\Proyecto CallCenter 18-02-2017\CallCenter\Data\obj\Debug\Data.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 23-02-2017\CallCenter\Data\obj\Debug\Data.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\Usuario\Desktop\Proyecto CallCenter 9-03-2017\CallCenter\Data\obj\Debug\Data.pdb
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\Data.xml
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\Core.dll
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\log4net.dll
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\NHibernate.dll
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\Core.pdb
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\bin\Debug\Core.xml
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\obj\Debug\Data.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\obj\Debug\Resources.resources
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\obj\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\obj\Debug\Data.dll
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\obj\Debug\Data.xml
+C:\Users\Usuario\Desktop\PruebaCallCenter\Proyecto CallCenter 28-03-2017\CallCenter\Data\obj\Debug\Data.pdb

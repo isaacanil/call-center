@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccInfFinAge, Core" lazy="false"  mutable="false">
+    <id name="ID" column="AGENTE" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="BalGralQJM" column="BalGralQJM"/>
+    <property name="BalDiaLR" column="BalDiaLR"/>
+    <property name="BalDiaQJM" column="BalDiaQJM" />
+    <property name="FacLR" column="FacLR"/>
+    <property name="FacQJM" column="FacQJM" />
+    <property name="BalGralLR" column="BalGralLR"/>
+  </class>
+
+
+  <sql-query name="SelectInfFinAge">
+    <return class="Core.Domain.CccEntidades.CccInfFinAge, Core">
+      <return-property name="ID" column="AGENTE"/>
+      <return-property name="BalGralQJM" column="BalGralQJM"/>
+      <return-property name="BalDiaLR" column="BalDiaLR"/>
+      <return-property name="BalDiaQJM" column="BalDiaQJM"/>
+      <return-property name="FacLR" column="FacLR"/>
+      <return-property name="FacQJM" column="FacQJM"/>
+      <return-property name="BalGralLR" column="BalGralLR"/>
+      
+      
+    </return>
+    exec [SelectInfFinAge]:age
+  </sql-query>
+</hibernate-mapping>

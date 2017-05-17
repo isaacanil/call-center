@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CallCenter", "CallCenter\CallCenter.vbproj", "{7C925712-C87B-486A-AC51-5057E633F069}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34DF5F1C-3631-4207-84EA-B7EE8DBA2D91} = {34DF5F1C-3631-4207-84EA-B7EE8DBA2D91}
+		{1F668FF2-B517-4B35-82FC-CDEA0FDA639F} = {1F668FF2-B517-4B35-82FC-CDEA0FDA639F}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Core", "Core\Core.vbproj", "{1F668FF2-B517-4B35-82FC-CDEA0FDA639F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Data", "Data\Data.vbproj", "{34DF5F1C-3631-4207-84EA-B7EE8DBA2D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C925712-C87B-486A-AC51-5057E633F069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C925712-C87B-486A-AC51-5057E633F069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C925712-C87B-486A-AC51-5057E633F069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C925712-C87B-486A-AC51-5057E633F069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F668FF2-B517-4B35-82FC-CDEA0FDA639F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F668FF2-B517-4B35-82FC-CDEA0FDA639F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F668FF2-B517-4B35-82FC-CDEA0FDA639F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F668FF2-B517-4B35-82FC-CDEA0FDA639F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DF5F1C-3631-4207-84EA-B7EE8DBA2D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DF5F1C-3631-4207-84EA-B7EE8DBA2D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DF5F1C-3631-4207-84EA-B7EE8DBA2D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DF5F1C-3631-4207-84EA-B7EE8DBA2D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

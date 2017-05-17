@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccDatoAge, Core" lazy="false"  mutable="false">
+    <id name="ID" column="codgtech" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="nomrep" column="nomrep" />
+    <property name="cedrep" column="cedrep" />
+    <property name="telefono1" column="telefono1" />
+    <property name="telefono2" column="telefono2" />
+    <property name="telcon1" column="telcon1" />
+    <property name="telcon2" column="telcon2" />
+    <property name="fax" column="fax" />
+    <property name="email" column="email" />
+    <property name="cx" column="cx" />
+    <property name="cy" column="cy" />
+    <property name="direccion" column="direccion" />
+    <property name="descpro" column="descpro" />
+    <property name="desmun" column="desmun" />
+    <property name="dessec" column="dessec" />
+  </class>
+  <sql-query name="SelectDatoAge">
+    <return class="Core.Domain.CccEntidades.CccDatoAge, Core">
+      <return-property name="ID" column="codgtech"/>
+      <return-property name="nomrep" column="nomrep"/>
+      <return-property name="cedrep" column="cedrep"/>
+      <return-property name="telefono1" column="telefono1"/>
+      <return-property name="telefono2" column="telefono2"/>
+      <return-property name="telcon1" column="telcon1"/>
+      <return-property name="telcon2" column="telcon2"/>
+      <return-property name="fax" column="fax"/>
+      <return-property name="email" column="email"/>
+      <return-property name="cx" column="cx"/>
+      <return-property name="cy" column="cy"/>
+      <return-property name="direccion" column="direccion"/>
+      <return-property name="descpro" column="descpro"/>
+      <return-property name="desmun" column="desmun"/>
+      <return-property name="dessec" column="dessec"/>
+    </return>
+    exec [SelectDatoAge]:age
+  </sql-query>
+</hibernate-mapping>

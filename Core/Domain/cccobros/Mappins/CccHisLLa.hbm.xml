@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccHisLLa, Core" lazy="false"  mutable="false">
+    <id name="ID" column="ID" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="TipLla" column="TipLla" />
+    <property name="NomCon" column="NomCon" />
+    <property name="TipCon" column="TipCon" />
+    <property name="dur" column="dur" />
+    <property name="FIni" column="FIni" />
+    <property name="FFin" column="FFin" />
+    <property name="NomU" column="NomU" />
+  </class>
+
+  <sql-query name="SelectHistLlaAge">
+    <return class="Core.Domain.CccEntidades.CccHisLLa, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="TipLla" column="TipLla"/>
+      <return-property name="NomCon" column="NomCon"/>
+      <return-property name="TipCon" column="TipCon"/>
+      <return-property name="dur" column="dur"/>
+      <return-property name="FIni" column="FIni"/>
+      <return-property name="FFin" column="FFin"/>
+      <return-property name="NomU" column="NomU"/>
+    </return>
+    exec [SelectHistLlaAge] :age,:top
+  </sql-query>
+</hibernate-mapping>

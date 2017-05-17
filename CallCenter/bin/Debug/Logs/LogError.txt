@@ -1,0 +1,1252 @@
+﻿25/11/2016 7:43:59 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 7:44:32 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 7:46:11 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 7:50:45 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 7:51:18 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 7:52:11 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 7:53:51 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 7:56:51 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+25/11/2016 8:03:46 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+27/11/2016 12:39:04 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+27/11/2016 12:39:32 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+27/11/2016 12:39:44 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+27/11/2016 12:40:28 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+27/11/2016 12:40:51 PM | Named query not known: SelectGesUsu1a | NHibernate | 
+27/11/2016 12:43:25 PM | Conversion from type 'List(Of GesUsu)' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+27/11/2016 4:49:38 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+27/11/2016 4:49:48 PM | Error enviando Log | Data | 
+27/11/2016 4:51:57 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 4:59:49 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:00:07 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:01:18 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:04:59 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:06:29 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:13:26 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:14:38 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:16:40 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:20:02 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:20:51 PM | No persister for: Core.Domain.CccEntidades.ClasificacionesLot, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null | NHibernate | 
+28/11/2016 5:24:43 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:24:50 PM | Error enviando Log | Data | 
+28/11/2016 5:30:37 PM | No persister for: Core.Domain.CccEntidades.ClasificacionesLot, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null | NHibernate | 
+28/11/2016 5:31:12 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:31:18 PM | Error enviando Log | Data | 
+28/11/2016 5:44:34 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+28/11/2016 5:47:23 PM | could not execute query
+[ exec [SelectClas]? ]
+  Name: tpclas - Value: L
+[SQL: exec [SelectClas]?] | NHibernate | 
+28/11/2016 5:49:57 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+29/11/2016 2:57:49 PM | Índice fuera de los límites de la matriz. | Microsoft.VisualBasic | 
+29/11/2016 3:01:51 PM | Operator '<>' is not defined for type 'Municipios' and type 'Integer'. | Microsoft.VisualBasic | 
+29/11/2016 3:02:05 PM | Operator '<>' is not defined for type 'Municipios' and type 'Integer'. | Microsoft.VisualBasic | 
+29/11/2016 6:21:08 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:21:11 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:21:14 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:21:32 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:21:34 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:22:00 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:22:07 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:22:38 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:26:15 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:26:20 PM | Named query not known: SelectSec | NHibernate | 
+29/11/2016 6:26:52 PM | Named query not known: SelectSec | NHibernate | 
+1/12/2016 8:34:12 AM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 8:38:52 AM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 8:42:36 AM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 8:48:48 AM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 8:51:18 AM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 8:51:58 AM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 4:03:52 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 4:03:57 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 4:04:01 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 4:05:15 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 4:05:23 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+1/12/2016 4:05:47 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+9/12/2016 10:44:40 AM | Operator '<>' is not defined for type 'CccMot' and type 'Integer'. | Microsoft.VisualBasic | 
+9/12/2016 11:09:09 AM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+9/12/2016 11:09:17 AM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+9/12/2016 11:09:49 AM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+12/12/2016 2:24:38 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+12/12/2016 2:28:54 PM | could not execute query
+[ exec [SelectAge]?,? ]
+  Name: param2 - Value: 
+  Name: param1 - Value: where nombre like '%COLAMDO%' and (codgtech like '8%' or like '7%' or like '9%') 
+[SQL: exec [SelectAge]?,?] | NHibernate | 
+12/12/2016 2:28:54 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+12/12/2016 3:52:27 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+15/12/2016 9:44:36 PM | could not execute query
+[ exec [SelectAgeCon]? ]
+  Name: age - Value: 80353200
+[SQL: exec [SelectAgeCon]?] | NHibernate | 
+15/12/2016 9:44:39 PM | could not execute query
+[ exec [SelectAgeCon]? ]
+  Name: age - Value: 80353200
+[SQL: exec [SelectAgeCon]?] | NHibernate | 
+15/12/2016 9:44:53 PM | could not execute query
+[ exec [SelectAgeCon]? ]
+  Name: age - Value: 80032500
+[SQL: exec [SelectAgeCon]?] | NHibernate | 
+15/12/2016 9:45:35 PM | could not execute query
+[ exec [SelectAgeCon]? ]
+  Name: age - Value: 80032500
+[SQL: exec [SelectAgeCon]?] | NHibernate | 
+15/12/2016 9:46:11 PM | could not execute query
+[ exec [SelectAgeCon]? ]
+  Name: age - Value: 80032500
+[SQL: exec [SelectAgeCon]?] | NHibernate | 
+15/12/2016 10:36:00 PM | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+28/12/2016 6:51:34 PM | cannot open connection | NHibernate | 
+2/2/2017 6:55:38 PM | El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index | mscorlib | 
+2/2/2017 6:55:52 PM | El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index | mscorlib | 
+2/2/2017 6:55:54 PM | El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index | mscorlib | 
+2/2/2017 6:56:15 PM | El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index | mscorlib | 
+2/2/2017 6:56:52 PM | El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index | mscorlib | 
+2/2/2017 7:04:09 PM | could not execute query
+[ exec [SelectDatoAge]? ]
+  Name: age - Value: 80000600
+[SQL: exec [SelectDatoAge]?] | NHibernate | 
+2/2/2017 7:04:10 PM | could not execute query
+[ exec [SelectDatoAge]? ]
+  Name: age - Value: 80001100
+[SQL: exec [SelectDatoAge]?] | NHibernate | 
+2/2/2017 7:04:11 PM | could not execute query
+[ exec [SelectDatoAge]? ]
+  Name: age - Value: 80001500
+[SQL: exec [SelectDatoAge]?] | NHibernate | 
+2/2/2017 7:04:12 PM | could not execute query
+[ exec [SelectDatoAge]? ]
+  Name: age - Value: 80002100
+[SQL: exec [SelectDatoAge]?] | NHibernate | 
+2/2/2017 7:04:14 PM | could not execute query
+[ exec [SelectDatoAge]? ]
+  Name: age - Value: 80003000
+[SQL: exec [SelectDatoAge]?] | NHibernate | 
+2/2/2017 7:04:53 PM | could not execute query
+[ exec [SelectDatoAge]? ]
+  Name: age - Value: 80002400
+[SQL: exec [SelectDatoAge]?] | NHibernate | 
+2/2/2017 7:05:59 PM | could not execute query
+[ exec [SelectDatoAge]? ]
+  Name: age - Value: 80000600
+[SQL: exec [SelectDatoAge]?] | NHibernate | 
+06/02/2017 14:48:08 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 14:48:24 | Error enviando Log | Data | 
+06/02/2017 14:48:37 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 14:48:44 | Error enviando Log | Data | 
+06/02/2017 14:52:02 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 16:46:26 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 16:47:38 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 16:49:19 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 17:02:13 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 17:03:09 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+06/02/2017 17:07:01 | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+07/02/2017 16:03:05 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:08 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:09 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:09 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:10 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:10 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:11 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:11 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:11 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:12 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:12 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:13 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:13 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:13 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:14 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:14 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:14 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:15 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:17 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:17 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:18 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:18 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:18 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:18 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:19 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:19 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:20 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:20 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:21 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:22 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:22 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:23 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:23 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:24 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:25 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:25 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:26 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:28 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:28 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:29 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:29 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:29 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:31 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:31 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:32 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:32 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:33 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:34 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:34 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:34 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:03:35 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:04:19 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:04:47 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:04:50 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:04:52 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:06:25 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:39 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:41 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:41 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:41 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:42 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:42 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:43 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:43 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:43 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:44 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:45 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:46 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:47 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:47 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:48 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:50 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:51 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:52 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:52 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:53 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:53 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:53 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:56 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:57 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:15:59 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:51 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:54 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:55 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:55 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:55 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:55 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:56 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:56 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:56 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:56 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:57 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:57 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:57 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:59 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:16:59 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:00 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:00 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:00 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:01 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:01 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:01 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:02 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:02 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:03 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:03 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:03 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:03 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:04 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:04 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:04 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:05 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:05 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:06 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:06 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:07 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:07 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:09 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:11 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:11 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:11 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:17:37 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:20:56 | Named query not known: SelectDatoGesAgeS | NHibernate | 
+07/02/2017 16:44:18 | Named query not known: SelectDatoGesAge | NHibernate | 
+07/02/2017 16:45:44 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 16:48:24 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 16:49:36 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 16:49:36 | Error enviando Log | Data | 
+07/02/2017 16:57:09 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 16:57:09 | Error enviando Log | Data | 
+07/02/2017 16:59:19 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 16:59:19 | Error enviando Log | Data | 
+07/02/2017 17:01:20 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 17:01:20 | Error enviando Log | Data | 
+07/02/2017 17:03:51 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 17:05:42 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80250700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:08:20 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80032500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:08 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:09 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:09 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:10 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:12 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:12 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:13 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:13 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:16 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:18 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:19 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:21 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:22 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80539000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80076100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:27 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80061100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:27 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80071200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80160300
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80222700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80013500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:29 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80286600
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:29 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80026500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:31 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80067000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:31 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80299700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:32 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80326300
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:33 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80386700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:34 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80030300
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:36 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80346900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:38 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80177300
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:38 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80326700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:40 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80244500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:41 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:35:42 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80285900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:36:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:36:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:36:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:36:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:36:25 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:12 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:13 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:13 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:14 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:14 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:14 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:17 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:17 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:22 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:33 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80539000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:37 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80400000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:38 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80456300
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:39 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80496200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:39 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80536700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:40 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80395500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:41 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80569700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510600
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80550000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:44 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80476000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:44:49 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80386900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:46:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:46:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:46:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:46:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:46:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:46:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 17:46:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80539000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:03:29 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 18:07:11 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 18:08:05 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 18:08:05 | Error enviando Log | Data | 
+07/02/2017 18:08:41 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:42 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:42 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:46 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:48 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:54 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:55 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:55 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:55 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:08:56 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:40 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:41 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:42 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:42 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:44 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:44 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:45 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:47 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:49 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:10:49 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+07/02/2017 18:16:58 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+07/02/2017 18:16:59 | Error enviando Log | Data | 
+08/02/2017 8:26:36 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+08/02/2017 8:26:36 | Error enviando Log | Data | 
+08/02/2017 8:43:11 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:20 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:25 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:30 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:31 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:32 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:35 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:38 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80539000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:40 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80600600
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:41 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80493300
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80633300
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:43 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80550600
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:43:44 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80218800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:44:38 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:21 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:22 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:25 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:31 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:32 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:33 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:34 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:37 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:46:37 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:47:55 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:47:56 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:47:56 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:47:57 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:47:57 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:47:57 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:48:00 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:48:02 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:48:02 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:48:03 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:48:03 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:54:47 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:54:49 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:54:50 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:54:52 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:54:54 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:54:54 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:56:25 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:56:25 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:56:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:56:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:56:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:56:29 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 8:56:32 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 9:02:19 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+08/02/2017 9:02:19 | Error enviando Log | Data | 
+08/02/2017 9:07:02 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 9:07:08 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 9:07:08 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 9:07:10 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 9:07:12 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 9:07:14 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 9:09:53 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+08/02/2017 9:09:53 | Error enviando Log | Data | 
+08/02/2017 9:10:21 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+08/02/2017 9:10:21 | Error enviando Log | Data | 
+08/02/2017 9:18:19 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 9:18:31 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 9:21:24 | La conversión de la cadena "False" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 9:21:39 | La conversión de la cadena "False" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 9:21:42 | La conversión de la cadena "False" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 9:21:46 | La conversión de la cadena "False" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 9:22:42 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 10:46:53 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 10:47:10 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 10:47:33 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 10:48:08 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 10:49:22 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:00:33 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:27:23 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:37:14 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:37:43 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:37:48 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:37:51 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:37:54 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:38:01 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:38:04 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:38:07 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:38:09 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:38:12 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:38:14 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:26 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:29 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:31 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:33 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:36 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:40 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:43 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:45 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:48 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:39:58 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:40:01 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:40:04 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:40:07 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:40:09 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:40:18 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:41:05 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:41:09 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 11:41:17 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 12:33:55 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 12:34:07 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 12:34:07 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 12:34:19 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 14:16:47 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:16:48 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:16:48 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:16:49 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:16:49 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:16:50 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:16:50 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:16:51 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 14:22:27 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:22:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:22:29 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:22:29 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:22:30 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:22:31 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 14:23:22 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80509900
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80532200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:24 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:25 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:25 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80437800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:26 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:27 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:23:28 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:28:50 | cannot open connection | NHibernate | 
+08/02/2017 14:29:05 | Error enviando Log | Data | 
+08/02/2017 14:29:06 | Error enviando Log | Data | 
+08/02/2017 14:46:21 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:46:21 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:46:22 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:46:22 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:46:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 14:46:23 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80123500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:12:55 | No se puede convertir un objeto de tipo 'CccDatGesAges' al tipo 'Core.DataInterfaces.IDatoAgeDao'. | CallCenter | 
+08/02/2017 17:13:10 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:18:00 | No se puede convertir un objeto de tipo 'CccDatGesAges' al tipo 'Core.DataInterfaces.IDatoAgeDao'. | CallCenter | 
+08/02/2017 17:18:05 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:20:42 | No se puede convertir un objeto de tipo 'CccDatGesAges' al tipo 'Core.DataInterfaces.IDatoAgeDao'. | CallCenter | 
+08/02/2017 17:20:56 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:24:49 | No se puede convertir un objeto de tipo 'CccDatGesAges' al tipo 'Core.DataInterfaces.IDatoAgeDao'. | CallCenter | 
+08/02/2017 17:25:56 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:25:57 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:25:59 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:26:00 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:26:01 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:26:02 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:26:04 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:26:05 | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+08/02/2017 17:27:17 | No se puede convertir un objeto de tipo 'CccDatGesAges' al tipo 'Core.DataInterfaces.IDatoAgeDao'. | CallCenter | 
+08/02/2017 17:34:06 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 70010000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:08 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80001000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:09 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80001200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:10 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80001500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:10 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80002000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:11 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80003200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:18 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 70020000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:30 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80006200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:39 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80170800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:41 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80175200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:41 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80177100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:42 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80177500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:44 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80183400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:47 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80195000
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:47 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80196500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:48 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80197800
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:34:48 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80198100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:35:58 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80302700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:35:59 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80397100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:35:59 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80565200
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:36:00 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80505100
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:36:00 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80457500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:36:00 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80487500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:36:02 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80171400
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:36:03 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80488500
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:36:04 | could not execute query
+[ exec [SelectDatoGesAge]? ]
+  Name: age - Value: 80510700
+[SQL: exec [SelectDatoGesAge]?] | NHibernate | 
+08/02/2017 17:50:04 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 17:50:13 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 17:50:17 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 17:50:19 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+08/02/2017 17:50:21 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+09/02/2017 9:32:19 | La conversión de la cadena "" en el tipo 'Double' no es válida. | Microsoft.VisualBasic | 
+10/02/2017 11:44:20 | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+10/02/2017 14:40:25 | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+16/2/2017 5:12:37 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+16/2/2017 5:12:38 PM | Error enviando Log | Data | 
+16/2/2017 5:29:14 PM | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+16/2/2017 6:37:07 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 6:37:09 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:02:30 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:02:32 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:04:19 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:04:20 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:05:42 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:05:50 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:06:11 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:06:14 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:06:59 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:07:10 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:09:35 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:11:14 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:11:19 PM | Conversion from type 'CccMot' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 7:40:23 PM | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+16/2/2017 7:44:56 PM | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+16/2/2017 7:52:37 PM | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+16/2/2017 7:53:07 PM | Not all named parameters have been set: [dur] [exec [InsertLLa]:IdCon,:IdTipCon,:TipCon,:NomCon,:NomU,:age,:dur,:UCrea] | NHibernate | 
+16/2/2017 8:56:07 PM | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+16/2/2017 8:56:07 PM | Error enviando Log | Data | 
+16/2/2017 10:32:07 PM | Conversion from type 'List(Of CccGenericCombo)' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+16/2/2017 10:35:28 PM | Conversion from type 'List(Of CccGenericCombo)' to type 'Integer' is not valid. | Microsoft.VisualBasic | 
+23/2/2017 5:23:04 PM | El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length | mscorlib | 
+23/2/2017 5:23:46 PM | El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length | mscorlib | 
+24/2/2017 2:29:03 PM | No se puede convertir un objeto de tipo 'System.String' al tipo 'System.IFormatProvider'. | CallCenter | 
+9/3/2017 7:48:30 PM | No se puede convertir un objeto de tipo 'System.Windows.Forms.GroupBox' al tipo 'System.Windows.Forms.TextBox'. | CallCenter | 
+9/3/2017 7:49:02 PM | No se puede convertir un objeto de tipo 'System.Windows.Forms.GroupBox' al tipo 'System.Windows.Forms.TextBox'. | CallCenter | 
+9/3/2017 7:49:04 PM | No se puede convertir un objeto de tipo 'System.Windows.Forms.GroupBox' al tipo 'System.Windows.Forms.TextBox'. | CallCenter | 
+11/3/2017 12:54:40 PM | Not all named parameters have been set: [] [exec [EnvioSolModAge]:str1,:str2,:str2] | NHibernate | 
+11/3/2017 12:55:39 PM | Not all named parameters have been set: [] [exec [EnvioSolModAge]:str1,:str2,:str2] | NHibernate | 
+11/3/2017 12:55:57 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+11/3/2017 12:56:33 PM | Not all named parameters have been set: [] [exec [EnvioSolModAge]:str1,:str2,:str2] | NHibernate | 
+11/3/2017 12:56:53 PM | Referencia a objeto no establecida como instancia de un objeto. | CallCenter | 
+29/03/2017 16:07:42 | Se produjo una excepción en el inicializador de tipo de 'Nested'. | Data | 
+29/03/2017 16:07:43 | Error enviando Log | Data | 
+08/04/2017 13:28:48 | La conversión de la cadena "txtTotal" en el tipo 'Long' no es válida. | Microsoft.VisualBasic | 
+08/04/2017 13:36:21 | La conversión de la cadena "txtTotal" en el tipo 'Long' no es válida. | Microsoft.VisualBasic | 
+08/04/2017 13:36:37 | La conversión de la cadena "txtTotal" en el tipo 'Long' no es válida. | Microsoft.VisualBasic | 
+08/04/2017 13:36:52 | La conversión de la cadena "txtTotal" en el tipo 'Long' no es válida. | Microsoft.VisualBasic | 
+08/04/2017 13:37:38 | La conversión de la cadena "txtTotal" en el tipo 'Long' no es válida. | Microsoft.VisualBasic | 
+08/04/2017 13:48:58 | El argumento 'DateValue' no se puede convertir en el tipo 'Date'. | Microsoft.VisualBasic | 
+08/04/2017 13:50:06 | El argumento 'DateValue' no se puede convertir en el tipo 'Date'. | Microsoft.VisualBasic | 

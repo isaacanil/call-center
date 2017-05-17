@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.CccEntidades.CccCarteras, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="codges" column="codges" />
+    <property name="codemp" column="codemp" />
+    <property name="tip" column="tip" />
+    <property name="balpos" column="balpos" />
+    <property name="balneg" column="balneg" />
+    <property name="blosi" column="blosi" />
+    <property name="blono" column="blono" />
+    <property name="ticsi" column="ticsi" />
+    <property name="ticno" column="ticno" />
+    <property name="estret" column="estret" />
+    <property name="estact" column="estact" />
+    <property name="llam" column="llam" />
+    <property name="total" column="total" />
+    <property name="act" column="act" />
+  </class>
+  <sql-query name="SelectCar">
+    <return class="Core.Domain.CccEntidades.CccCarteras, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="codges" column="codges"/>
+      <return-property name="codemp" column="codemp"/>
+      <return-property name="tip" column="tip"/>
+      <return-property name="balpos" column="balpos"/>
+      <return-property name="balneg" column="balneg"/>
+      <return-property name="blosi" column="blosi"/>
+      <return-property name="blono" column="blono"/>
+      <return-property name="ticsi" column="ticsi"/>
+      <return-property name="ticno" column="ticno"/>
+      <return-property name="estret" column="estret"/>
+      <return-property name="estact" column="estact"/>
+      <return-property name="llam" column="llam"/>
+      <return-property name="total" column="total"/>
+      <return-property name="act" column="act"/>
+    </return>
+    exec [SelectCar]:tip,:cod
+  </sql-query>
+
+</hibernate-mapping>

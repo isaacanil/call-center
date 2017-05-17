@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.MsjErrorEntidades.MsjError, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="resultado" column="resultado" />
+    <!--loader query-ref="SelectGesUsu"/-->
+  </class>
+  <sql-query name="EnvioLogError">
+    <return class="Core.Domain.MsjErrorEntidades.MsjError, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [EnvioLogError] :Usuario, :NombrePc, :fecha, :mensaje, :origen, :funcion
+  </sql-query>
+
+</hibernate-mapping>
