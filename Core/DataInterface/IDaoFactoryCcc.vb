@@ -24,7 +24,7 @@ Namespace Core.DataInterfaces
         Function GetGenericComboDao() As IGenericComboDao
         Function GetInfFinAgeDao() As IInfFinAgeDao
         Function GetGenericRegDao() As IGenericRegDao
-        Function GetAcuLisDao() As IAcuLisDao 'Lista de acuerdos
+        Function GetAcuLisDao() As IAcuLisDao 'Lista de acuerdos..
     End Interface
 #Region "Consulta_Avanzada"
     Public Interface IRegistraDao
