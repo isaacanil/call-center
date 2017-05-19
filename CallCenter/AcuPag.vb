@@ -10,14 +10,77 @@ Imports System.Drawing
 Public Class AcuPag
 
     Dim bindAcu As New BindingSource
+
+#Region "Estilos"
+    Private Sub cambia_estilo(ByVal objeto As Object, ByVal tipo As Integer)
+        Dim estilo As Font
+        If tipo = 1 Then 'Estilo cuando el objeto tiene el focus
+            estilo = New Font(txtTotal.Font.FontFamily, txtTotal.Font.Size, FontStyle.Bold)
+            objeto.BackColor = Color.Yellow
+        Else
+            estilo = New Font(txtTotal.Font.FontFamily, txtTotal.Font.Size, FontStyle.Regular)
+            objeto.BackColor = Color.White
+        End If
+
+        objeto.Font = estilo
+    End Sub
+    Private Sub txtTotal_GotFocus(sender As Object, e As EventArgs) Handles txtTotal.GotFocus
+        cambia_estilo(txtTotal, 1)
+    End Sub
+    Private Sub txtTotal_LostFocus(sender As Object, e As EventArgs) Handles txtTotal.LostFocus
+        cambia_estilo(txtTotal, 2)
+        'If txtTotal.Text <> "" Then
+        '    txtTotal.Text = txtTotal.Text.ToString("C")
+        'End If
+    End Sub
+    Private Sub txtCanCuo_GotFocus(sender As Object, e As EventArgs) Handles txtCanCuo.GotFocus
+        cambia_estilo(txtCanCuo, 1)
+    End Sub
+    Private Sub txtCanCuo_LostFocus(sender As Object, e As EventArgs) Handles txtCanCuo.LostFocus
+        cambia_estilo(txtCanCuo, 2)
+    End Sub
+    Private Sub DtpFecIni_GotFocus(sender As Object, e As EventArgs) Handles DtpFecIni.GotFocus
+        cambia_estilo(DtpFecIni, 1)
+    End Sub
+    Private Sub DtpFecIni_LostFocus(sender As Object, e As EventArgs) Handles DtpFecIni.LostFocus
+        cambia_estilo(DtpFecIni, 2)
+    End Sub
+#End Region
+    Private Sub txtTotal_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtTotal.KeyPress
+        If e.KeyChar >= "0" And e.KeyChar <= "9" Then 'Allows only numbers
+            e.KeyChar = e.KeyChar 'Allows only numbers
+        ElseIf Asc(e.KeyChar) = 8 Then
+            e.KeyChar = e.KeyChar 'Allows "Backspace" to be used
+        ElseIf e.KeyChar = ","c Then
+            e.KeyChar = ","c
+        ElseIf e.KeyChar = "." Then
+            If txtTotal.Text.IndexOf(".") > -1 Then 'Allows " . " and prevents more than 1 " . "
+                e.Handled = True
+                Beep()
+            End If
+        Else
+            e.Handled = True  'Disallows all other characters from being used on txtNights.Text
+            Beep()
+        End If
+    End Sub
+    Private Sub txtTotal_TextChanged(sender As Object, e As EventArgs) Handles txtTotal.TextChanged
+        If IsNumeric(txtTotal.Text) Then
+            Dim temp As Double = txtTotal.Text
+            txtTotal.Text = Format(temp, "N")
+            txtTotal.SelectionStart = txtTotal.TextLength - 3
+        End If
+    End Sub
     Private Sub txtTotal_KeyDown(sender As Object, e As KeyEventArgs) Handles txtTotal.KeyDown
         If e.KeyCode = Keys.Enter Then
             recalcular(txtTotal.Name)
+            cmbPer.Focus()
+            cmbPer.DroppedDown = True
         End If
     End Sub
     Private Sub cmbPer_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbPer.SelectedIndexChanged
         recalcular(Me.cmbPer.Name)
     End Sub
+
     Private Sub txtCanCuo_ValueChanged(sender As Object, e As EventArgs) Handles txtCanCuo.ValueChanged
         recalcular(txtCanCuo.Name)
     End Sub
@@ -34,7 +97,7 @@ Public Class AcuPag
                 'recalculamos nuevamente
                 If objMod = "txtTotal" Or objMod = "txtCanCuo" Then
                     If CType(txtTotal.Text, Double) > 0 Then
-                        txtMonCuo.Text = CType(txtTotal.Text, Double) / txtCanCuo.Value
+                        txtMonCuo.Text = (CType(txtTotal.Text, Double) / txtCanCuo.Value).ToString("C")
                     End If
                 End If
                 If objMod = "cmbPer" Or objMod = "DtpFecIni" Or objMod = "txtCanCuo" Then
@@ -42,7 +105,7 @@ Public Class AcuPag
                         Case 1
                             DtpFecFin.Text = IIf(txtCanCuo.Value = 1, DtpFecIni.Value, DateAdd(DateInterval.Day, ((txtCanCuo.Value - 1) * 7), DtpFecIni.Value))
                         Case 2
-                            MsgBox(DatePart(DateInterval.Day, DtpFecIni.Value))
+                            'MsgBox(DatePart(DateInterval.Day, DtpFecIni.Value))
                             DtpFecFin.Text = IIf(txtCanCuo.Value = 1, DtpFecIni.Value, DateAdd(DateInterval.Day, ((txtCanCuo.Value - 1) * 15), DtpFecIni.Value))
                         Case 3
                             DtpFecFin.Text = IIf(txtCanCuo.Value = 1, DtpFecIni.Value, DateAdd(DateInterval.Month, (txtCanCuo.Value - 1), DtpFecIni.Value))
@@ -100,7 +163,8 @@ Public Class AcuPag
                     Case 1
                         dgvAcu.CurrentRow.Cells("fcuo").Value = IIf(i = 1, DtpFecIni.Value, DateAdd(DateInterval.Day, ((i - 1) * 7), DtpFecIni.Value))
                     Case 2
-                        dgvAcu.CurrentRow.Cells("fcuo").Value = IIf(i = 1, DtpFecIni.Value, DateAdd(DateInterval.Month, ((i - 1) / 2), DtpFecIni.Value))
+                        dgvAcu.CurrentRow.Cells("fcuo").Value = IIf(i = 1, DtpFecIni.Value, DateAdd(DateInterval.Day, ((i - 1) * 15), DtpFecIni.Value))
+                        'dgvAcu.CurrentRow.Cells("fcuo").Value = IIf(txtCanCuo.Value = 1, DtpFecIni.Value, DateAdd(DateInterval.Day, ((txtCanCuo.Value - 1) * 15), DtpFecIni.Value))
                     Case 3
                         dgvAcu.CurrentRow.Cells("fcuo").Value = IIf(i = 1, DtpFecIni.Value, DateAdd(DateInterval.Month, (i - 1), DtpFecIni.Value))
                 End Select
@@ -112,4 +176,7 @@ Public Class AcuPag
 
         End If
     End Sub
+
+
+
 End Class

@@ -62,6 +62,8 @@ Partial Class AcuPag
         Me.Label1 = New System.Windows.Forms.Label()
         Me.txtTotal = New System.Windows.Forms.TextBox()
         Me.gbDist = New System.Windows.Forms.GroupBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.Label11 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.lblTotalGenPag = New System.Windows.Forms.Label()
         Me.Label9 = New System.Windows.Forms.Label()
@@ -74,14 +76,13 @@ Partial Class AcuPag
         Me.DataGridViewTextBoxColumn12 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.dgvAcu = New System.Windows.Forms.DataGridView()
-        Me.btnAceptar = New System.Windows.Forms.Button()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
         Me.ncuo = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.fcuo = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.montocuo = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.descri = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.bal = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.btnAceptar = New System.Windows.Forms.Button()
+        Me.BindingSource1 = New System.Windows.Forms.BindingSource(Me.components)
         Me.GbInfGen.SuspendLayout()
         Me.gbCond.SuspendLayout()
         CType(Me.txtCanCuo, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -91,6 +92,7 @@ Partial Class AcuPag
         Me.gbPag.SuspendLayout()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgvAcu, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.BindingSource1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'TT1
@@ -184,7 +186,7 @@ Partial Class AcuPag
         Me.btnGuardaCon.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnGuardaCon.ForeColor = System.Drawing.Color.Black
         Me.btnGuardaCon.Image = Global.My.Resources.Resources.Pencil
-        Me.btnGuardaCon.Location = New System.Drawing.Point(386, 15)
+        Me.btnGuardaCon.Location = New System.Drawing.Point(238, 15)
         Me.btnGuardaCon.Name = "btnGuardaCon"
         Me.btnGuardaCon.Size = New System.Drawing.Size(25, 26)
         Me.btnGuardaCon.TabIndex = 115
@@ -431,7 +433,7 @@ Partial Class AcuPag
         Me.txtMonCuo.ReadOnly = True
         Me.txtMonCuo.Size = New System.Drawing.Size(82, 22)
         Me.txtMonCuo.TabIndex = 112
-        Me.txtMonCuo.Text = "0"
+        Me.txtMonCuo.Text = "0.0"
         Me.txtMonCuo.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label15
@@ -567,6 +569,7 @@ Partial Class AcuPag
         Me.txtTotal.Name = "txtTotal"
         Me.txtTotal.Size = New System.Drawing.Size(110, 20)
         Me.txtTotal.TabIndex = 17
+        Me.txtTotal.Text = "0.0"
         Me.txtTotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'gbDist
@@ -587,6 +590,28 @@ Partial Class AcuPag
         Me.gbDist.TabIndex = 80
         Me.gbDist.TabStop = False
         Me.gbDist.Text = "DISTRIBUCION DE CUOTAS - TABLA DE AMORTIZACION"
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label10.ForeColor = System.Drawing.Color.Black
+        Me.Label10.Location = New System.Drawing.Point(8, 215)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(110, 16)
+        Me.Label10.TabIndex = 122
+        Me.Label10.Text = "Total Acuerdo:"
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label11.ForeColor = System.Drawing.Color.Red
+        Me.Label11.Location = New System.Drawing.Point(114, 213)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(19, 20)
+        Me.Label11.TabIndex = 121
+        Me.Label11.Text = "0"
         '
         'Label8
         '
@@ -729,6 +754,46 @@ Partial Class AcuPag
         Me.dgvAcu.Size = New System.Drawing.Size(425, 189)
         Me.dgvAcu.TabIndex = 3
         '
+        'ncuo
+        '
+        Me.ncuo.DataPropertyName = "ncuo"
+        Me.ncuo.HeaderText = "No."
+        Me.ncuo.Name = "ncuo"
+        Me.ncuo.ReadOnly = True
+        Me.ncuo.Width = 40
+        '
+        'fcuo
+        '
+        Me.fcuo.DataPropertyName = "fcuo"
+        Me.fcuo.HeaderText = "Fecha"
+        Me.fcuo.Name = "fcuo"
+        Me.fcuo.ReadOnly = True
+        Me.fcuo.Width = 90
+        '
+        'montocuo
+        '
+        Me.montocuo.DataPropertyName = "montocuo"
+        Me.montocuo.HeaderText = "Cuota$"
+        Me.montocuo.Name = "montocuo"
+        Me.montocuo.ReadOnly = True
+        Me.montocuo.Width = 90
+        '
+        'descri
+        '
+        Me.descri.DataPropertyName = "descri"
+        Me.descri.HeaderText = "Estado"
+        Me.descri.Name = "descri"
+        Me.descri.ReadOnly = True
+        Me.descri.Width = 80
+        '
+        'bal
+        '
+        Me.bal.DataPropertyName = "bal"
+        Me.bal.HeaderText = "Balance$"
+        Me.bal.Name = "bal"
+        Me.bal.ReadOnly = True
+        Me.bal.Width = 90
+        '
         'btnAceptar
         '
         Me.btnAceptar.BackColor = System.Drawing.Color.White
@@ -747,65 +812,6 @@ Partial Class AcuPag
         Me.btnAceptar.Text = "Aceptar"
         Me.btnAceptar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.btnAceptar.UseVisualStyleBackColor = False
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.ForeColor = System.Drawing.Color.Black
-        Me.Label10.Location = New System.Drawing.Point(8, 215)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(110, 16)
-        Me.Label10.TabIndex = 122
-        Me.Label10.Text = "Total Acuerdo:"
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.ForeColor = System.Drawing.Color.Red
-        Me.Label11.Location = New System.Drawing.Point(114, 213)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(19, 20)
-        Me.Label11.TabIndex = 121
-        Me.Label11.Text = "0"
-        '
-        'ncuo
-        '
-        Me.ncuo.DataPropertyName = "ncuo"
-        Me.ncuo.HeaderText = "No."
-        Me.ncuo.Name = "ncuo"
-        Me.ncuo.ReadOnly = True
-        Me.ncuo.Width = 40
-        '
-        'fcuo
-        '
-        Me.fcuo.DataPropertyName = "fcuo"
-        Me.fcuo.HeaderText = "Fecha"
-        Me.fcuo.Name = "fcuo"
-        Me.fcuo.ReadOnly = True
-        Me.fcuo.Width = 60
-        '
-        'montocuo
-        '
-        Me.montocuo.DataPropertyName = "montocuo"
-        Me.montocuo.HeaderText = "Cuota"
-        Me.montocuo.Name = "montocuo"
-        Me.montocuo.ReadOnly = True
-        '
-        'descri
-        '
-        Me.descri.DataPropertyName = "descri"
-        Me.descri.HeaderText = "Estado Cuota"
-        Me.descri.Name = "descri"
-        Me.descri.ReadOnly = True
-        '
-        'bal
-        '
-        Me.bal.DataPropertyName = "bal"
-        Me.bal.HeaderText = "Balance"
-        Me.bal.Name = "bal"
-        Me.bal.ReadOnly = True
         '
         'AcuPag
         '
@@ -840,6 +846,7 @@ Partial Class AcuPag
         Me.gbPag.PerformLayout()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgvAcu, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.BindingSource1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -902,4 +909,5 @@ Partial Class AcuPag
     Friend WithEvents montocuo As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents descri As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents bal As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents BindingSource1 As System.Windows.Forms.BindingSource
 End Class
